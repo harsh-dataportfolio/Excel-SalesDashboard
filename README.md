@@ -67,6 +67,6 @@ This project analyzes the business performance of a fictional superstore by buil
 This Excel Dashboard provides meaningful insights into category and regional performance over time. **Technology** consistently emerges as the top performer in terms of both revenue and profitability. The dashboard allows business users to explore trends interactively and make data-informed decisions.
 
 ---
+## 📸 Dashboard Preview
 
-#7.DashBoard Preview:
-![Alt Text](https://github.com/harsh-dataportfolio/Excel-SalesDashboard/blob/main/Sample%20ScreenShot%202.png)
+![Dashboard Screenshot]()

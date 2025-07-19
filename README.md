@@ -32,5 +32,5 @@ product category "office supplies" has a lower average sales but a higher profit
 -Overall considering from 2014-2017 the product category "technology" is the best performer as it has the highest total sales of 8,36,154 and highest average profit of 310.33 and Lowest total discount of 244.4 .
 
 DashBoard Preview:
-https://github.com/harsh-dataportfolio/Excel-SalesDashboard/blob/main/Sample%20ScreenShot%202.png
+Excel-SalesDashboard/blob/main/Sample%20ScreenShot%202.png
 

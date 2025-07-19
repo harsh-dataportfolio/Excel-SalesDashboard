@@ -1,36 +1,72 @@
-# SUPERSTORE SALES DASHBOARD(Excel)
-An interactive Excel Dashboard analyzing sales performance, profit trends, discount trends across years, regions and product category.
+# 📊 SUPERSTORE SALES DASHBOARD (Excel)
 
-#1.Project Overview:
-This project aims to analyze the business performance of a fictional superstore by building a visually appealing Excel Dashboard. It enables business users to monitor KPIs(key perfomance indicators) like sales, profit, discount, quantity sold and regional performance.
+An interactive **Excel Dashboard** analyzing sales performance, profit trends, and discount patterns across different years, regions, and product categories.
 
-#2.Project Objectives: 
-    -1.Analyze sales and profit trends over time.
-    -2.Segment data by various factors.
-    -3.Identify top performing and under performing product categories.
-    -4.Create dynamic filters and slicers for user interaction.
+---
 
-#3.Dataset:
-The project uses the Superstore Sample Dataset Which Was Collected from Kaggle.com 
+## 📁 Project Overview
 
-#4.Description: It consist of several columns Order ID, Order Date,	Ship Mode, Customer ID,	Customer Name,	City,	State,	Region,	Product ID,	Category,	Sub-Category,	Sales,	Quantity,	Discount,	Profit,	Order Year.
-Row x Columns= 9995 x 16
+This project analyzes the business performance of a fictional superstore by building a visually appealing and interactive Excel Dashboard. It enables business users to monitor key performance indicators (KPIs) such as:
 
-#5.Tools Used:
-    -Microsoft Excel
-    -Data Cleaning
-    -Pivot Tables
-    -Pivot Charts
-    -Slicers
+- Total Sales  
+- Profit  
+- Discounts  
+- Quantity Sold  
+- Regional and Category-wise Performance
 
-#6.Key Insights:
-    -1. West Region has the best performance overall on the basis of sales and profit.
-    -2. Product category "technology" has the best overall avegrage sales and Profit across all regions from 2014-2017,
-    -3. product category "office supplies" has a lower average sales but a higher profit as compared to product category "furniture" across all regions from 2014-2017.
-    -4. As we look at the overall profit trend it was slightly increasing  till 2016 and has started slightly decreasing afterwards.
-    -5. The "furniture" product category Total sales was around 4.5% higher than technology in 2015 otherwise "technology" product category has the highest sales across all regions from 2014-2017.
-    -6.The product category "Office supplies" has the Lowest total sales amount of 7,19,047 and the highest total discount of 947.8 .
-    -7. Overall considering from 2014-2017 the product category "technology" is the best performer as it has the highest total sales of 8,36,154 and highest average profit of 310.33 and Lowest total discount of 244.4 .
+---
+
+## 🎯 Project Objectives
+
+- Analyze sales and profit trends over time  
+- Segment data by region, year, and product category  
+- Identify top-performing and underperforming product segments  
+- Create dynamic filters and slicers for user interaction  
+
+---
+
+## 📊 Dataset
+
+- **Source:** [Kaggle - Superstore Sample Dataset](https://www.kaggle.com/)
+- **Structure:** 9995 rows × 16 columns
+- **Key Fields:**
+  - `Order ID`, `Order Date`, `Ship Mode`, `Customer ID`, `Customer Name`  
+  - `City`, `State`, `Region`, `Product ID`  
+  - `Category`, `Sub-Category`, `Sales`, `Quantity`, `Discount`, `Profit`, `Order Year`  
+
+---
+
+## 🛠 Tools & Techniques Used
+
+- Microsoft Excel  
+- Data Cleaning  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers for interactivity  
+- Conditional Formatting  
+
+---
+
+## 🔍 Key Insights
+
+- 🏆 **West Region** shows the strongest overall performance in both sales and profit  
+- 💻 **Technology** is the best-performing category (2014–2017) with the highest total sales and average profit  
+- 📎 **Office Supplies** has lower average sales but higher profit than **Furniture** over the same period  
+- 📉 Overall profit showed a slight upward trend until 2016, followed by a slight decline in 2017  
+- 📈 In 2015, **Furniture** sales were about 4.5% higher than **Technology**, but in all other years, **Technology** led in sales  
+- 🗃️ **Office Supplies** had the **lowest total sales** of ₹719,047 and the **highest total discount** of 947.8  
+- 🚀 **Technology**:
+  - Total Sales: ₹836,154  
+  - Average Profit: ₹310.33  
+  - Total Discount: 244.4 (lowest among all categories)  
+
+---
+
+## 🧠 Conclusion
+
+This Excel Dashboard provides meaningful insights into category and regional performance over time. **Technology** consistently emerges as the top performer in terms of both revenue and profitability. The dashboard allows business users to explore trends interactively and make data-informed decisions.
+
+---
 
 #7.DashBoard Preview:
 ![Alt Text](https://github.com/harsh-dataportfolio/Excel-SalesDashboard/blob/main/Sample%20ScreenShot%202.png)

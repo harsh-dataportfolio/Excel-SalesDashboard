@@ -69,4 +69,4 @@ This Excel Dashboard provides meaningful insights into category and regional per
 ---
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/harsh-dataportfolio/Excel-SalesDashboard/blob/main/Sample%20ScreenShot%202.png)
